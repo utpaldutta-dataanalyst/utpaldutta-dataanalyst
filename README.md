@@ -13,7 +13,7 @@ Email Me 👉 ✉️ **akomanidutta10021999@gmail.com** For Collaboration/Projec
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and building dashboards that tell stories.
 - 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Utpal Dutta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/utpaal_dutta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Utpal Dutta) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Utpal Dutta)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Utpal Dutta) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
